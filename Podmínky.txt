@@ -1,0 +1,14 @@
+Stažením aplikace parallel_reader souhlasíte s následujícími body:
+1. Aplikaci používám pouze pro vlastní potřebu.
+2. Používáním aplikace nezpůsobuji v žádném případe ani sebemenší újmu straně poskytovatele služeb, která této aplikaci poskytuje data pro její běh.
+3. Aplikaci nepoužívám pro provedení DDOS ani jiného typu škodlivého útoku.
+4. Nesu plnou zodpovědnost za používání aplikace a zprošťuji zodpovědnosti všechny, co se podílí na vývoji této aplikace.
+5. Nebudu poskytovat nikomu kopie této aplikace bez souhlasu vývojářů.
+
+Terms of use (EN - by www.DeepL.com/Translator):
+By downloading parallelreader, you agree to the following points:
+1. I use the application for my own use only.
+2. By using the application, I do not in any way cause the slightest harm to the service provider who provides the data for the application to run.
+3. I do not use the application to perform DDOS or any other type of malicious attack.
+4. I take full responsibility for the use of the application and release all those involved in the development of this application from liability.
+5. I will not provide copies of this application to anyone without the developers' permission.
